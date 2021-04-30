@@ -29,3 +29,7 @@ td,th{
     color: red;
 
 }
+
+table.center{
+margin: auto;
+}
