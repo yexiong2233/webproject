@@ -1,6 +1,16 @@
 body{
-    background-image: url(545237.jpg); background-size:cover;background-repeat: no-repeat;
+    background-image: url(subeijing.jpg); background-size:cover;background-repeat: no-repeat;
 }
+
+ :root{
+    --blue: #6495ed;
+    --red: ;
+}
+
+.container{
+    color: var(--blue);
+}
+
 .biaoqian{
     background-color: grey;
     overflow: hidden;
