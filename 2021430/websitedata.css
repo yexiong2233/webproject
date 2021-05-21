@@ -64,3 +64,8 @@ div.gallay{
     display: table;
     clear: both;
   }
+
+  .textcenter{
+      padding: 10px;
+      text-align: center;
+  }
